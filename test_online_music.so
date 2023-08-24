@@ -1,0 +1,261 @@
+[{
+	"id": "card_1",
+	"title": "view_pager_card",
+	"style": "N_B",
+	"items": [{
+		"id": "YykjpeuMNEk",
+		"title": "Coldplay - Hymn For The Weekend (Official Video)",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/YykjpeuMNEk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAojx8_Yokuhhp5_eH6SqfiOVqNfQ",
+		"item_type": "music"
+	}, {
+		"id": "RDCLAK5uy_mZHyenayZw8LMV39ADiOCyJxmA4dlW0Os",
+		"title": "50 Deep",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXO7buPetG6_KHw1OsF9ZVRtG1jg",
+		"item_type": "list"
+	}, {
+		"id": "RDCLAK5uy_kkkZR6KAV5kBSqDCeaBb_pDDhA83VGFwg",
+		"title": "潜力流行歌曲",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXO7buPetG6_KHw1OsF9ZVRtG1jg",
+		"item_type": "list"
+	}, {
+		"id": "RDCLAK5uy_mGYde2Wyx9INZd6GbPcMWkxDOu6Utmedw",
+		"title": "2010年代美国热门金曲精选",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/3YqPKLZF_WU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbnR3G05ttIZV5Kj-h7YcFiaPuwg",
+		"item_type": "list"
+	}]
+}, {
+	"id": "card_2",
+	"title": "Inner RecyclerView Card",
+	"style": "N_R",
+	"items": [{
+		"id": "YykjpeuMNEk",
+		"title": "Coldplay - Hymn For The Weekend (Official Video)",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/YykjpeuMNEk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAojx8_Yokuhhp5_eH6SqfiOVqNfQ",
+		"item_type": "music"
+	}, {
+		"id": "RDCLAK5uy_mZHyenayZw8LMV39ADiOCyJxmA4dlW0Os",
+		"title": "50 Deep",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXO7buPetG6_KHw1OsF9ZVRtG1jg",
+		"item_type": "list"
+	}, {
+		"id": "RDCLAK5uy_kkkZR6KAV5kBSqDCeaBb_pDDhA83VGFwg",
+		"title": "潜力流行歌曲",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXO7buPetG6_KHw1OsF9ZVRtG1jg",
+		"item_type": "list"
+	}, {
+		"id": "RDCLAK5uy_mGYde2Wyx9INZd6GbPcMWkxDOu6Utmedw",
+		"title": "2010年代美国热门金曲精选",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/3YqPKLZF_WU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbnR3G05ttIZV5Kj-h7YcFiaPuwg",
+		"item_type": "list"
+	}]
+}, {
+	"id": "card_3",
+	"title": "Online_Music_Artist_Card",
+	"style": "N_B_NAVI",
+	"items": [{
+		"id": "@NjelicOfficial",
+		"title": "Njelic ",
+		"desc": "@NjelicOfficial2.14万位订阅者1 个视频",
+		"img_url": "https://i.ytimg.com/vi/YykjpeuMNEk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAojx8_Yokuhhp5_eH6SqfiOVqNfQ",
+		"item_type": "channel"
+	}, {
+		"id": "50 Deep",
+		"title": "50 Deep",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/37Eb6iXVfzE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsrUmP7gyk3fj0LXMSMeY2i5wf0A",
+		"item_type": "search"
+	}, {
+		"id": "RDCLAK5uy_kkkZR6KAV5kBSqDCeaBb_pDDhA83VGFwg",
+		"title": "潜力流行歌曲",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXO7buPetG6_KHw1OsF9ZVRtG1jg",
+		"item_type": "list"
+	}, {
+		"id": "RDCLAK5uy_mGYde2Wyx9INZd6GbPcMWkxDOu6Utmedw",
+		"title": "2010年代美国热门金曲精选",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/3YqPKLZF_WU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbnR3G05ttIZV5Kj-h7YcFiaPuwg",
+		"item_type": "list"
+	}, {
+		"id": "YykjpeuMNEk",
+		"title": "Coldplay - Hymn For The Weekend (Official Video)",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/YykjpeuMNEk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAojx8_Yokuhhp5_eH6SqfiOVqNfQ",
+		"item_type": "music"
+	}, {
+		"id": "RDCLAK5uy_mZHyenayZw8LMV39ADiOCyJxmA4dlW0Os",
+		"title": "50 Deep",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXO7buPetG6_KHw1OsF9ZVRtG1jg",
+		"item_type": "list"
+	}, {
+		"id": "RDCLAK5uy_kkkZR6KAV5kBSqDCeaBb_pDDhA83VGFwg",
+		"title": "潜力流行歌曲",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXO7buPetG6_KHw1OsF9ZVRtG1jg",
+		"item_type": "list"
+	}, {
+		"id": "RDCLAK5uy_mGYde2Wyx9INZd6GbPcMWkxDOu6Utmedw",
+		"title": "2010年代美国热门金曲精选",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/3YqPKLZF_WU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbnR3G05ttIZV5Kj-h7YcFiaPuwg",
+		"item_type": "list"
+	}, {
+		"id": "YykjpeuMNEk",
+		"title": "Coldplay - Hymn For The Weekend (Official Video)",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/YykjpeuMNEk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAojx8_Yokuhhp5_eH6SqfiOVqNfQ",
+		"item_type": "music"
+	}, {
+		"id": "RDCLAK5uy_mZHyenayZw8LMV39ADiOCyJxmA4dlW0Os",
+		"title": "50 Deep",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXO7buPetG6_KHw1OsF9ZVRtG1jg",
+		"item_type": "list"
+	}, {
+		"id": "RDCLAK5uy_kkkZR6KAV5kBSqDCeaBb_pDDhA83VGFwg",
+		"title": "潜力流行歌曲",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXO7buPetG6_KHw1OsF9ZVRtG1jg",
+		"item_type": "list"
+	}, {
+		"id": "RDCLAK5uy_mGYde2Wyx9INZd6GbPcMWkxDOu6Utmedw",
+		"title": "2010年代美国热门金曲精选",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/3YqPKLZF_WU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbnR3G05ttIZV5Kj-h7YcFiaPuwg",
+		"item_type": "list"
+	}, {
+		"id": "YykjpeuMNEk",
+		"title": "Coldplay - Hymn For The Weekend (Official Video)",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/YykjpeuMNEk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAojx8_Yokuhhp5_eH6SqfiOVqNfQ",
+		"item_type": "music"
+	}, {
+		"id": "RDCLAK5uy_mZHyenayZw8LMV39ADiOCyJxmA4dlW0Os",
+		"title": "50 Deep",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXO7buPetG6_KHw1OsF9ZVRtG1jg",
+		"item_type": "list"
+	}, {
+		"id": "RDCLAK5uy_kkkZR6KAV5kBSqDCeaBb_pDDhA83VGFwg",
+		"title": "潜力流行歌曲",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXO7buPetG6_KHw1OsF9ZVRtG1jg",
+		"item_type": "list"
+	}, {
+		"id": "RDCLAK5uy_mGYde2Wyx9INZd6GbPcMWkxDOu6Utmedw",
+		"title": "2010年代美国热门金曲精选",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/3YqPKLZF_WU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbnR3G05ttIZV5Kj-h7YcFiaPuwg",
+		"item_type": "list"
+	}]
+}, {
+	"id": "card_3",
+	"title": "OnlineMusic_Trending",
+	"style": "N_HOT",
+	"items": [{
+		"id": "YykjpeuMNEk",
+		"title": "Coldplay - Hymn For The Weekend (Official Video)",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/YykjpeuMNEk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAojx8_Yokuhhp5_eH6SqfiOVqNfQ",
+		"item_type": "music"
+	}, {
+		"id": "RDCLAK5uy_mZHyenayZw8LMV39ADiOCyJxmA4dlW0Os",
+		"title": "50 Deep",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXO7buPetG6_KHw1OsF9ZVRtG1jg",
+		"item_type": "list"
+	}, {
+		"id": "RDCLAK5uy_kkkZR6KAV5kBSqDCeaBb_pDDhA83VGFwg",
+		"title": "潜力流行歌曲",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXO7buPetG6_KHw1OsF9ZVRtG1jg",
+		"item_type": "list"
+	}, {
+		"id": "RDCLAK5uy_mGYde2Wyx9INZd6GbPcMWkxDOu6Utmedw",
+		"title": "2010年代美国热门金曲精选",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/3YqPKLZF_WU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbnR3G05ttIZV5Kj-h7YcFiaPuwg",
+		"item_type": "list"
+	}, {
+		"id": "YykjpeuMNEk",
+		"title": "Coldplay - Hymn For The Weekend (Official Video)",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/YykjpeuMNEk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAojx8_Yokuhhp5_eH6SqfiOVqNfQ",
+		"item_type": "music"
+	}, {
+		"id": "RDCLAK5uy_mZHyenayZw8LMV39ADiOCyJxmA4dlW0Os",
+		"title": "50 Deep",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXO7buPetG6_KHw1OsF9ZVRtG1jg",
+		"item_type": "list"
+	}, {
+		"id": "RDCLAK5uy_kkkZR6KAV5kBSqDCeaBb_pDDhA83VGFwg",
+		"title": "潜力流行歌曲",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXO7buPetG6_KHw1OsF9ZVRtG1jg",
+		"item_type": "list"
+	}, {
+		"id": "RDCLAK5uy_mGYde2Wyx9INZd6GbPcMWkxDOu6Utmedw",
+		"title": "2010年代美国热门金曲精选",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/3YqPKLZF_WU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbnR3G05ttIZV5Kj-h7YcFiaPuwg",
+		"item_type": "list"
+	}, {
+		"id": "YykjpeuMNEk",
+		"title": "Coldplay - Hymn For The Weekend (Official Video)",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/YykjpeuMNEk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAojx8_Yokuhhp5_eH6SqfiOVqNfQ",
+		"item_type": "music"
+	}, {
+		"id": "RDCLAK5uy_mZHyenayZw8LMV39ADiOCyJxmA4dlW0Os",
+		"title": "50 Deep",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXO7buPetG6_KHw1OsF9ZVRtG1jg",
+		"item_type": "list"
+	}, {
+		"id": "RDCLAK5uy_kkkZR6KAV5kBSqDCeaBb_pDDhA83VGFwg",
+		"title": "潜力流行歌曲",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXO7buPetG6_KHw1OsF9ZVRtG1jg",
+		"item_type": "list"
+	}, {
+		"id": "RDCLAK5uy_mGYde2Wyx9INZd6GbPcMWkxDOu6Utmedw",
+		"title": "2010年代美国热门金曲精选",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/3YqPKLZF_WU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbnR3G05ttIZV5Kj-h7YcFiaPuwg",
+		"item_type": "list"
+	}, {
+		"id": "YykjpeuMNEk",
+		"title": "Coldplay - Hymn For The Weekend (Official Video)",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/YykjpeuMNEk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAojx8_Yokuhhp5_eH6SqfiOVqNfQ",
+		"item_type": "music"
+	}, {
+		"id": "RDCLAK5uy_mZHyenayZw8LMV39ADiOCyJxmA4dlW0Os",
+		"title": "50 Deep",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXO7buPetG6_KHw1OsF9ZVRtG1jg",
+		"item_type": "list"
+	}, {
+		"id": "RDCLAK5uy_kkkZR6KAV5kBSqDCeaBb_pDDhA83VGFwg",
+		"title": "潜力流行歌曲",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXO7buPetG6_KHw1OsF9ZVRtG1jg",
+		"item_type": "list"
+	}, {
+		"id": "RDCLAK5uy_mGYde2Wyx9INZd6GbPcMWkxDOu6Utmedw",
+		"title": "2010年代美国热门金曲精选",
+		"desc": "Mixes are playlists Youtube makes for you",
+		"img_url": "https://i.ytimg.com/vi/3YqPKLZF_WU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbnR3G05ttIZV5Kj-h7YcFiaPuwg",
+		"item_type": "list"
+	}]
+}]
